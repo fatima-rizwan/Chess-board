@@ -1,20 +1,37 @@
-# Chessboard Using HTML & CSS
+<div align="center">
 
-A simple chessboard layout created using **HTML5** and **CSS3**. This project focuses on building a structured chessboard using CSS styling and layout techniques.
+# ♟️ Chessboard Using HTML & CSS
 
-## Features
+**A classic chessboard layout created using HTML5 and CSS3.**
 
-- Classic 8×8 chessboard layout
+A front-end project focused on building a chessboard using HTML structure and CSS styling techniques.
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+</div>
+
+---
+
+## ✨ Features
+
+- Classic chessboard layout
 - Alternating light and dark squares
-- Chess pieces displayed using symbols
-- Clean and organized layout
+- Structured chessboard design
+- Styled using HTML and CSS
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
+<div align="center">
 
-## Project Structure
+| Technology | Purpose |
+|:---:|:---:|
+| HTML5 | Page structure and content |
+| CSS3 | Layout, styling and positioning |
+
+</div>
+
+## 📂 Project Structure
 
 ```text
 Chess-board/
@@ -22,12 +39,19 @@ Chess-board/
 └── styles.css
 ```
 
-## Learning Outcomes
+## 📚 What I Learned
 
-- Practiced HTML structure and CSS styling
-- Improved understanding of layout and positioning
-- Worked with CSS selectors and styling properties
+- Creating structured layouts with HTML
+- Applying CSS styling and selectors
+- Working with layout and positioning
+- Improving front-end development skills
 
 ---
 
-**Developed by Fatima Rizwan**
+<div align="center">
+
+### 💗 Developed by Fatima Rizwan
+
+*Building and exploring modern web interfaces, one project at a time.*
+
+</div>
